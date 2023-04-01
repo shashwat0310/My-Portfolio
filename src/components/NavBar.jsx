@@ -32,7 +32,7 @@ const NavBar = () => {
   return (
     <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed">
       <div >
-      <Link to="home" spy={true} smooth={true} duration={500} onClick={() => window.scrollTo(0, 0)}>
+      <Link to="home" spy={true} smooth={true} duration={550} onClick={() => window.scrollTo(0, 0)}>
         <h1 className="text-5xl font-signature ml-2 hover:scale-95 smooth duration-100 cursor-pointer ">Shashwat</h1>
         </Link>
       </div>
