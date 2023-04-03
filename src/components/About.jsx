@@ -14,23 +14,13 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        Shashwat Srivastava,born 2000 resides in Greater Noida, India. I recently completed my Bachelor's degree in Electronics and Communication Engineering. I have always been fascinated by the world of technology and the endless possibilities it presents. My interest in web design and development started during my college days when I was introduced to the world of HTML, CSS, and JavaScript. Since then, I have been continuously learning and improving my skills in various web technologies such as React, NodeJS, Tailwind, GraphQL, and more.
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+        I have an eye for detail and a passion for creating visually stunning and highly functional websites and applications. I believe that the user experience should be at the forefront of any project, and I strive to create websites that are not only aesthetically pleasing but also easy to navigate and use.Apart from web design and development, I am also enthusiastic about the field of IoT and automation. I believe that the future of technology lies in creating interconnected devices and automating processes to make our lives easier and more efficient.
         </p>
       </div>
     </div>

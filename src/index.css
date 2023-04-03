@@ -13,7 +13,7 @@
 }
 
 ::-webkit-scrollbar-thumb {
-  border-radius: 10px;
+  border-radius: 15px;
           border: 3px;
           outline: whitesmoke;
           padding: 5px;
@@ -22,12 +22,16 @@
 }
 
 ::-webkit-scrollbar-track {
-    background: linear-gradient(to bottom, from black,  black, to gray );
-            background-color: #000000;
+    background: linear-gradient(to bottom, from black, to gray );
+            background-color: black;
 }
 
 ::-webkit-scrollbar-thumb:hover {
   background: linear-gradient(to right, #5b5b5b, rgba(63, 63, 63, 0.711));
+}
+
+::-webkit-scrollbar-thumb:active {
+  background-color: gray;
 }
 
 @layer base {
